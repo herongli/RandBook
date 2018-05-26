@@ -1,0 +1,19 @@
+src
+    js
+        lib
+            jquery
+            text
+        page
+            index.js
+        common
+            template.js //编译模板
+    css
+
+    tql
+        banner.html
+    index.html
+
+    
+requirejs-text
+    1.引入text
+该插件会把模块内容当成普通字符串进行解析
